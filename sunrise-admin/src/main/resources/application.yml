@@ -1,7 +1,7 @@
 # 项目相关配置
-ruoyi:
+sunrise:
   # 名称
-  name: RuoYi
+  name: Sunrise
   # 版本
   version: 3.3.0
   # 版权年份
@@ -29,7 +29,7 @@ server:
 # 日志配置
 logging:
   level:
-    com.ruoyi: debug
+    com.sunrise: debug
     org.springframework: warn
 
 # 用户配置
